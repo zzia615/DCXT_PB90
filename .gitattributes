@@ -1,0 +1,3 @@
+*.js linguist-language=powerscript
+*.css linguist-language=powerscript
+*.html linguist-language=powerscript
